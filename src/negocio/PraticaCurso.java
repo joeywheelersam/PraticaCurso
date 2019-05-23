@@ -23,6 +23,6 @@ public class PraticaCurso {
         
         /* Teste da Classe Repositorio */
         Pessoa a = new Pessoa ("Pessoa", "000.000.000-00", 0);
-        RepositorioPessoasArray.cadastrarPessoas(c);
+        
     }
 }
